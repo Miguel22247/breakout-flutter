@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # breakout-flutter
 
 ## About the Project
